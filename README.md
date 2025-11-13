@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Shanthosh 👋
 
 I'm a Full-Stack Developer passionate about building accessible, secure, and scalable web applications.  
-Currently exploring **Laravel**, **Angular**, and **React.js**, while diving deeper into **cloud infrastructure** and **AI-powered systems**.  
+Currently exploring **Java**,**Python**, **Angular**, and **React.js**, while diving deeper into **cloud infrastructure** and **AI-powered systems**.  
 I'm open to collaborating on innovative projects, especially those involving automation, security, and frontend/backend synergy.
 
 📍 Based in Sri Lanka | 🌐 Always excited to learn, build, and collaborate!
@@ -53,4 +53,6 @@ I'm open to collaborating on innovative projects, especially those involving aut
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px" />
 </p>
+![Shanthosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shanthosh129&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanthosh129&layout=compact&theme=radical)
 
