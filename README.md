@@ -53,6 +53,6 @@ I'm open to collaborating on innovative projects, especially those involving aut
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px" />
 </p>
-![Shanthosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shanthosh129&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanthosh129&layout=compact&theme=radical)
+<!-- ![Shanthosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shanthosh129&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanthosh129&layout=compact&theme=radical) -->
 
